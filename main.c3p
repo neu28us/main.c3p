@@ -1,0 +1,7 @@
+// Meu primeiro código em C3p
+definir mensagem = "Olá, Mundo! C3p funcionando!";
+mostrar(mensagem);
+
+se (1 + 1 == 2) {
+    mostrar("A lógica do C3p está correta!");
+}
